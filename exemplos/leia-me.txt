@@ -1,0 +1,11 @@
+#################### leiame.txt ####################
+
+Todos arquivos no mesmo diretorio. 
+
+executar apenas o 
+
+cmh-001.sh   , 
+
+ele faz todas as etapas. 
+
+#################### leiame.txt ####################
